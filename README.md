@@ -1,4 +1,5 @@
 # APK-Crypter
+## Join Teligram for password
 # [![https://t.me/+d7B9nU-M9KJiNzIx](https://img.shields.io/badge/Telegram-Chanal-orange.svg?style=flat-square)](https://t.me/+d7B9nU-M9KJiNzIx)
 
 
