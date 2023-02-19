@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1NTpBAa5f0GNMTW7t0mk6eYyq4i7_tQ9U/view?usp=share
 4) Simple and Easy Graphical Interface
 5) Tested with Ahmyth Rat
 
+
 Procedure:
 1) In Crypter Panel, Left Click on the with 3 dots at the right side of 1st input.
 2) It will then ask you for APK. So choose the path of your detectable APK.
